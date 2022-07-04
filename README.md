@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n2ble" alt="n2ble" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development with java**
-
 - 📫 How to reach me **yasser.hollo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
