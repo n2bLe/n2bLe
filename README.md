@@ -2,7 +2,7 @@
 
 
 
-I'm a full stack software engineer :man_technologist:
+I'm a Backend Developer & Software Engineer :man_technologist:
 - :telescope: I’m currently working on a Java Web Framework.
 - :mailbox: How to reach me: by [email](mailto:yasser.hollo@gmail.com).
 
